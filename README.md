@@ -50,9 +50,9 @@ sudo -H pip3 install -r requirements.txt
 
 ## Clone this repo and go to folder
 ```
-git clone https://github.com/usmanmughalji/python-aria-mirror-bot-heroku.git
+git clone https://github.com/usmanmughalji/mirrorhub.git
 
-cd python-aria-mirror-bot-heroku
+cd mirrorhub
 ```
 
 ## Setup config file
